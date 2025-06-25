@@ -8,4 +8,4 @@ Experimenting with Linear Regression
 2. Make a copy of the .csv sheet.
 3. Open google colab: https://colab.research.google.com/drive/13riAFFNbdUmdIhYceXA9sZfQ_0qZifQT?usp=sharing
 4. If excel sheet shows NaN values, replace the excel file with the same one again.
-5. Run each block of code from the top after the block before ran successfully.
+5. Run each block of code from the top after the block before has ran successfully.
